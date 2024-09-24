@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "828570369213",
+    "project_id": "finhub-e5473",
+    "storage_bucket": "finhub-e5473.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828570369213:android:e240472f9c75aa68c7cbd4",
+        "android_client_info": {
+          "package_name": "com.example.finhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828570369213-i4vnf14l770sebl938agqbb0001okvic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuq3RwN9e3lDUYf3YOjdbdyXN0vPUdGQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828570369213-i4vnf14l770sebl938agqbb0001okvic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
